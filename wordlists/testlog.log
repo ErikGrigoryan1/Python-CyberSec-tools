@@ -1,0 +1,8 @@
+Jun 18 12:34:56 server sshd[12345]: Failed password for invalid user admin from 192.168.1.100 port 51234 ssh2
+Jun 18 12:35:01 server sshd[12346]: Failed password for root from 10.0.0.5 port 34567 ssh2
+Jun 18 12:35:05 server sshd[12347]: Failed password for user1 from 192.168.1.100 port 51235 ssh2
+Jun 18 12:36:10 server sshd[12348]: Accepted password for validuser from 172.16.0.7 port 22222 ssh2
+Jun 18 12:36:15 server sshd[12349]: Failed password for root from 10.0.0.5 port 34568 ssh2
+Jun 18 12:37:20 server sshd[12350]: Failed password for invalid user guest from 203.0.113.55 port 54321 ssh2
+Jun 18 12:37:25 server sshd[12351]: Failed password for root from 10.0.0.5 port 34569 ssh2
+
